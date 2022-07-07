@@ -1,9 +1,0 @@
-Question: Create JPA+Hibernate CRUD Project.
-
-Instructions:
-- project name: HibernateCRUD
-- Create Database 
-- Add Maven Dependencies
-- Create class Student.
-- Add Hibernate Configuration File.
-- Run the Application. 
